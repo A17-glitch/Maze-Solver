@@ -1,7 +1,7 @@
 # Maze-Solver
 A Java-based maze solving application using BFS &amp; DFS algorithms with GUI built in Swing.
 
-#Maze Solver Project
+# Maze Solver Project
 A Java-based maze solver using BFS/DFS algorithms.
 
 ## Features
